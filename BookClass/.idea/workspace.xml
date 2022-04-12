@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10c2cc34-ed00-450f-b290-c122e885bafa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1io6eXiXImsQzKC0iM5eOE1frPa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.BookMainKt">
+    <configuration name="BookMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BookClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BookMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BookClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.BookMainKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10c2cc34-ed00-450f-b290-c122e885bafa" name="Default Changelist" comment="" />
+      <created>1602561692353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602561692353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1616" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607406288104">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1616" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607406288104" />
+    <state x="-1343" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607406286686">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1343" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607406286686" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1607408846913">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/-1920.23.1920.1019/0.23.1920.1177@-1920.23.1920.1019" timestamp="1603656695968" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607408846913" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1603339008525" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1607408846912">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.center/-1920.23.1920.1019/0.23.1920.1177@-1920.23.1920.1019" timestamp="1603656695967" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607408846912" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1603339008524" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1607408846912">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.left/-1920.23.1920.1019/0.23.1920.1177@-1920.23.1920.1019" timestamp="1603656695967" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607408846912" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1603339008523" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1607408846913">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.right/-1920.23.1920.1019/0.23.1920.1177@-1920.23.1920.1019" timestamp="1603656695968" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607408846913" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1603339008524" />
+    <state x="-1267" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1607720494841">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1267" y="365" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607720494841" />
+    <state x="-1267" y="365" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1602606041009" />
+    <state x="-1351" y="160" width="782" height="825" key="find.popup" timestamp="1602612126791">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1351" y="160" width="782" height="825" key="find.popup/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1602612126791" />
+    <state x="-1362" y="222" key="new project wizard" timestamp="1607406377033">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1362" y="222" key="new project wizard/-1920.23.1920.1057/0.23.1920.1137@-1920.23.1920.1057" timestamp="1607406377033" />
+    <state x="-1409" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1603944194416">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1409" y="248" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.1139@-1920.23.1920.1057" timestamp="1603944194416" />
+  </component>
+</project>

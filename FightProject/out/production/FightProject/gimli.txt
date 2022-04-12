@@ -1,0 +1,3 @@
+Gimli,dwarf, 90, 40, 3
+ax, 25
+plate male, 85

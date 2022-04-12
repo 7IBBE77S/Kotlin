@@ -1,0 +1,3 @@
+Legolas Greenleaf,elf, 47, 30, 10
+Bow, 15
+Leather, 10
