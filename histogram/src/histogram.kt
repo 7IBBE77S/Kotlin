@@ -40,7 +40,7 @@ fun main() {
             }  |     ${"*".repeat(amount)}"
         )
     }
-}
+
 
 
 
